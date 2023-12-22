@@ -4,7 +4,10 @@ subtitle: Preview your webcam and take photos
 pubDate: 2023-05-20
 platforms:
   - macOS
+isMenuBarApp: true
 appStoreId: 1632827132
+olderMacOSVersions:
+  - '13'
 ---
 
 Instant access to your Mac's camera feed for quick checks before video calls.
@@ -80,10 +83,16 @@ I don't plan to localize the app.
 
 <br>
 
+### Older Versions
+
+- [1.4.0](https://github.com/sindresorhus/meta/files/13988612/Camera.Preview.1.4.0.-.macOS.13.zip) for macOS 13+
+
+<br>
+
 ### Non-App Store Version
 
 A special version for users that cannot access the App Store. It won't receive automatic updates. I will update it here once a year.
 
-[Download](https://www.dropbox.com/scl/fi/pef2inbxa67828pgs9kpa/Camera-Preview-1.1.1-1686473013-1701611286.zip?rlkey=0karenj24z0wm8ofz9x2b16bl&raw=1) *(1.1.1)*
+[Download](https://www.dropbox.com/scl/fi/29jhs5p2cvsirrrzqo8ys/Camera-Preview-1.5.0-1705674569.zip?rlkey=cro7g7ntqchwcf8hak9o6c816&raw=1) *(1.5.0)*
 
-*Requires macOS 13 or later*
+*Requires macOS 14 or later*

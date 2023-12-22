@@ -5,6 +5,7 @@ pubDate: 2023-03-03
 platforms:
   - macOS
   - iOS
+  - visionOS
 appStoreId: 1672085276
 ---
 
@@ -12,12 +13,7 @@ High-quality on-device transcription. Easily convert speech to text from meeting
 
 The transcription is powered by OpenAI's [Whisper model](https://openai.com/research/whisper) running locally on your device.
 
-The app also includes support for Shortcuts.
-
-**Upcoming features**
-
-- Batch conversion
-- Export to karaoke file
+The app also includes [support for Shortcuts](#tips).
 
 <details>
 <summary><b>Supports audio in 100 languages</b></summary>
@@ -295,7 +291,7 @@ Workaround for macOS:
 
 #### How can I export the transcription as subtitles (SRT)?
 
-When the transcription is done, click the share button in the toolbar, and choose “SRT”.
+When the transcription is done, click the save button in the toolbar, and choose “SRT”.
 
 #### How can I transcribe a YouTube video?
 
