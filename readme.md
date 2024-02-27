@@ -1,5 +1,5 @@
-# [sindresorhus.com](https://sindresorhus.com)
+# [imfy.cc](https://imfy.cc)
 
-> Personal website of Sindre Sorhus
+> Personal website of fy
 
 *The website targets the latest version of Chrome, Safari, and Firefox.*

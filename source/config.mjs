@@ -1,8 +1,8 @@
 export const SITE = {
-	name: 'Sindre Sorhus',
-	origin: 'https://sindresorhus.com',
+	name: 'imfycc',
+	origin: 'https://imfy.cc',
 	basePathname: '/',
-	title: 'Sindre Sorhus',
-	description: 'Full-Time Open-Sourcerer & Aspiring Rebel',
+	title: 'imfycc',
+	description: 'Full-stack Developer & Swift & JavaScript',
 	blogPostsPerPage: 10,
 };
