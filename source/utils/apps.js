@@ -31,7 +31,7 @@ const normalizeApps = async app => {
 	const links = {
 		...Object.fromEntries(headerLinks),
 		...data.links,
-		...(data.showSupportLink && {Support: `/contact`}),
+		...(data.showSupportLink && {Support: '/contact'}),
 	};
 
 	let screenshots = await import.meta.glob('~/../public/apps/*/screenshot*.{png,jpg}', {eager: false});
