@@ -18,7 +18,6 @@ export default defineConfig({
 		format: 'file',
 	},
 	redirects: {
-		'/thanks': '/supporters',
 		'/lock-screen-one': '/any-text',
 	},
 	integrations: [
