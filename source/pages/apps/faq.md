@@ -13,7 +13,7 @@ Tap the feedback button in the app or the support link on the app's page. I prio
 
 ### How can I get a refund?
 
-For apps purchased on the Apple App Store, you can [request a refund](https://support.apple.com/en-us/HT204084). However, I would appreciate if you [reached out](/feedback) first. I may be able to resolve any problems you are having.
+For apps purchased on the Apple App Store, you can [request a refund](https://support.apple.com/en-us/HT204084). However, I would appreciate if you [reached out](/contact) first. I may be able to resolve any problems you are having.
 
 ### Do your apps collect any personal data?
 
@@ -22,14 +22,6 @@ My apps prioritize user privacy and do not collect any personal data.
 ### Are your apps native?
 
 Yes, all my apps are native. They are built using Swift and SwiftUI and are designed to provide the best performance and integration with the operating systems. I put a lot of effort into adhering to Apple's [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines).
-
-### Why are most of your apps free?
-
-I love making apps and I want them to be available to as many people as possible. I don't care much about money and I earn enough on my paid apps.
-
-### What's your policy on ads in your apps?
-
-I hate ads. None of my apps have ads.
 
 ### How can I support your work?
 
@@ -45,7 +37,7 @@ User-reported bugs are prioritized based on their impact on the app's functional
 
 ### What's the best way to learn about new apps?
 
-Subscribe to my [“new apps” RSS feed](/rss-apps.xml) and follow me on [Twitter](https://twitter.com/sindresorhus) and [Mastodon](https://mastodon.social/@sindresorhus).
+Subscribe to my [“new apps” RSS feed](/rss-apps.xml) and follow me on [Twitter](https://twitter.com/imfycc).
 
 ### Do you actively maintain all your apps?
 
@@ -90,67 +82,13 @@ If you have tried all of this, [contact me](/feedback).
 
 Make sure the app is not running (you can force-quit it from the Activity Monitor app) and then press <kbd>Shift</kbd>+<kbd>Control</kbd>+<kbd>Option</kbd> while launching the app.
 
-### How can I delete all settings and data to start over in one of your apps? {#reset-app}
-
-iOS: Open the Settings app, go to “General › iPhone/iPad Storage”, tap the app in the list, tap “Delete App”, then go to the App Store and install the app again.
-
-macOS: Make sure the app is not running (you can force-quit it from the Activity Monitor app) and then press <kbd>Shift</kbd>+<kbd>Control</kbd>+<kbd>Option</kbd>+<kbd>Command</kbd> while launching the app.
-
-### How can I reset all permissions for your Mac app? {#mac-reset-permissions}
-
-*(This is only necessary if the app asked for any permissions the first time you launched it)*
-
-First, quit the app.
-
-Copy the following, open the Terminal app, paste it into the Terminal window, replace `<app-name>` with the name of the app, and then press the <kbd>Return</kbd> key:
-
-```sh
-osascript -e 'id of app "<app-name>"'
-```
-
-Example:
-
-```sh
-osascript -e 'id of app "Dato"'
-```
-
-You now have the app's identifier.
-
-Next, copy the following, and paste it into the Terminal window, replace `<app-identifier>` with the app's identifier, and then press the <kbd>Return</kbd> key:
-
-```sh
-tccutil reset All <app-identifier>
-```
-
-Example:
-
-```sh
-tccutil reset All com.sindresorhus.Dato
-```
-
-You can now launch the app again.
-
-### How can I send you a crash report for one of your Mac apps? {#crash-report}
+### How can I send you a crash report for one of your Mac apps?
 
 - Open Finder
 - Select `Go to Folder…` from the `Go` menu
 - Enter: `~/Library/Logs/DiagnosticReports`
-- In the resulting list, select all files that starts with the app name, ZIP them, and [send me](/feedback)
-
-### Can you support non-Apple platforms?
-
-No, my expertise is exclusively in macOS, iOS, watchOS, and visionOS. Focus is key to high-quality apps.
-
-### Can I hire you to build me an app?
-
-I am not available for hire.
-
-### Can I acquire your app?
-
-No. I make apps because I enjoy it. Your money is of no interest to me.
+- In the resulting list, select all files that starts with the app name, ZIP them, and [send me](/contact)
 
 ### My question is not answered here
 
 [Ask me.](/contact)
-
-*You could also try to [ask my AI bot](https://chat.openai.com/g/g-df0ZoBF9N-sindregpt).*

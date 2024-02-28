@@ -5,7 +5,6 @@
 
 ## More
 
-- [FAQ](/apps/faq) - Frequently asked questions about my apps
 - [Terms of Use](/apps/terms) - Guidelines and conditions for using my apps
 - [RSS Feed for New Apps](/rss-apps.xml) - Get notified about new apps I publish
 
