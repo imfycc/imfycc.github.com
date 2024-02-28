@@ -3,25 +3,11 @@ layout: ~/layouts/MarkdownLayout.astro
 title: About
 ---
 
-# About Sindre Sorhus
+# About imfycc
 
-I'm a full-time open-source developer. In 2014, I quit my office job to backpack around Southeast Asia while doing open-source. I have since settled in Bangkok, Thailand, but I'm still doing open-source all day. In early 2018, I became fully funded by the community.
-
-My current focus is on macOS app development with Swift and Node.js-based packages and CLI tools. I actively maintain [1000+ npm packages](https://www.npmjs.com/~sindresorhus) and [many popular projects](https://github.com/search?q=user:sindresorhus+user:chalk+user:avajs+user:xojs+archived:false&type=Repositories).
-
-### More
-
-- [Interviewed by Indie Dev Monday](https://indiedevmonday.com/issue-53)
-- [Interviewed by Between the Wires](https://medium.freecodecamp.org/sindre-sorhus-8426c0ed785d)
-- [Answering Anything & Everything](https://github.com/sindresorhus/meta/files/10987101/Sindre.Sorhus.-.Answering.Anything.Everything.pdf)
+I currently work full time as a nodejs full-stack developer and in my spare time I develop applications for the Apple ecosystem in Swift. I am working towards becoming an independent developer to gain financial, time, and work freedom. Thank you for using the applications that I have developed and I hope they help you in your life.
 
 ### Links
 
-- [Twitter](https://twitter.com/sindresorhus)
-- [Mastodon](https://mastodon.social/@sindresorhus)
-- [Bluesky](https://bsky.app/profile/sindresorhus.bsky.social)
-- [Telegram](https://t.me/sindresorhuschat)
-- [Newsletter](https://sindresorhus.substack.com)
-- [GitHub](https://github.com/sindresorhus)
-- [Instagram](https://instagram.com/sindresorhus)
-- [Unsplash](https://unsplash.com/@sindresorhus)
+- [Twitter](https://twitter.com/imfycc)
+- [GitHub](https://github.com/imfycc)

@@ -26,7 +26,7 @@ export const GET = async context => {
 		.sort((a, b) => b.pubDate - a.pubDate);
 
 	return rss({
-		title: 'Sindre Sorhus — Blog',
+		title: 'imfycc — Blog',
 		description: SITE.description,
 		site: context.site,
 		items,

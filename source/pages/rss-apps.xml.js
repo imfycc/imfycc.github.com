@@ -14,7 +14,7 @@ export const GET = async context => {
 		}));
 
 	return rss({
-		title: 'Sindre Sorhus — Apps',
+		title: 'imfycc — Apps',
 		description: 'Quality crafted apps',
 		site: context.site,
 		items,
